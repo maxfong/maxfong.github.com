@@ -1,0 +1,14 @@
+<div id="gitmentContainer"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+    owner: 'maxfong',
+    repo: 'https://github.com/maxfong/maxfong.github.com',
+    oauth: {
+        client_id: 'f852ba8fcd2bb9a5ae29',
+        client_secret: 'ad0f17375b793c8516512708106654dd4dbb9a8b',
+    },
+});
+gitment.render('gitmentContainer');
+</script>
