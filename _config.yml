@@ -100,6 +100,6 @@ google:
     analytics_id: UA-97303967-1
 
 baidu:
-    analytics_id: 5ed655a78414b07b9ec8bfaa15d9961f
+    analytics_id: e5edec5eeb1ce959305fc3073cb8e2a5
     
 theme: jekyll-theme-cayman
