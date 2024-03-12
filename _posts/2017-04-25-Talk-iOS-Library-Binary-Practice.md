@@ -8,7 +8,7 @@ published: true
 
 ## 前言  
 为了加快编译速度，在工程拆分后，将一些常用库进行二进制化，工程引用库后不需要对源码进行编译。  
-本文内容适合工程需要二进制化并使用过CocoaPods的朋友，工程的依赖管理可以查看这篇：[谈谈iOS多工程依赖](https://imfong.com/post/Talk-iOS-Project-Practices)  
+本文内容适合工程需要二进制化并使用过CocoaPods的朋友，工程的依赖管理可以查看这篇：[谈谈iOS多工程依赖](https://maxfong.github.io/post/Talk-iOS-Project-Practices)  
 
 ## 方案  
 发现总结的方案有以下几种  
@@ -32,7 +32,7 @@ published: true
   "version": "x.x.x",
   "summary": "MFSFrameworks Test",
   "description": "所有使用到的SDK集合, subspecs内容纯属模拟",
-  "homepage": "http://imfong.com",
+  "homepage": "http://maxfong.github.io",
   "license": "MIT",
   "authors": {
     "maxfong": "devmaxfong@qq.com"
