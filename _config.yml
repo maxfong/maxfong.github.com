@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://imfong.com
+url: https://maxfong.github.io
 date_format: "ordinal"
 title: maxfong的博客
 subtitle: "多学，多思"
